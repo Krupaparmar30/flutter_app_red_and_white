@@ -1,4 +1,10 @@
 # flutter_app_red_and_white
+<p>
+  <img src="https://github.com/Krupaparmar30/flutter_app_red_and_white/assets/149374671/3001b516-c882-4708-8a7b-e3a3fd8a1736"width=22% height=35%>
+  <img src="https://github.com/Krupaparmar30/flutter_app_red_and_white/assets/149374671/e909dfcc-0f58-42b3-a563-77c26662b48d"width=22% height=35%>
+
+ 
+</p>
 
 A new Flutter project.
 
